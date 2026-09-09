@@ -72,6 +72,17 @@ The ACF plot showed a significant spike at lag 52, indicating an annual seasonal
 <p align="center">
 <img src="images/09_autocorrelation.png" width="700">
 
+## Forecasting
+A SARIMA model was developed to capture:
+
+ - Trend
+ - Seasonality over 52 weeks
+ - Temporal dependencies
+
+The results are the following:
+<p align="center">
+<img src="images/09_autocorrelation.png" width="400">
+
 
 ## Tools used
  - Pandas
