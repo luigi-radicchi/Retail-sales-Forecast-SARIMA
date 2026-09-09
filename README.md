@@ -61,7 +61,7 @@ Then, in the EDA activity, the stores with most overall sales have been classifi
 
 Weekly sales generally fluctuate between 40M and 50M dollars, with significant peaks occurring during holiday periods:
 <p align="center">
-<img src="images/07_weekly_sales_timeline.png" width="700">
+<img src="images/07_weekly_sales_timeline.png" width="1000">
 
 ## Tools used
  - Pandas
