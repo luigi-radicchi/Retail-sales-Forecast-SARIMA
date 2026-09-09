@@ -43,7 +43,7 @@ These are the columns available after the astype check:
 
 No null values have been found:
 <p align="center">
-<img src="images/14_null.png" width="400">
+<img src="images/14_null.png" width="200">
 
 ## Tools used
  - Pandas
