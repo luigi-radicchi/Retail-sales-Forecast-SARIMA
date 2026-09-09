@@ -81,7 +81,7 @@ A SARIMA model was developed to capture:
 
 The results are the following, that suggest using a model SARIMA (2,0,2)(1,0,0,52):
 <p align="center">
-<img src="images/15_SARIMA.png" width="400">
+<img src="images/15_SARIMA.png" width="800">
 
 
 ## Tools used
