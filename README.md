@@ -45,6 +45,24 @@ No null values have been found:
 <p align="center">
 <img src="images/14_null.png" width="200">
 
+## Exploratory Data Analysis
+
+The numeric values in the data table have been studied to determine any anomaly in the dataset, the following are histograms for some of these data:
+<p align="center">
+<img src="images/01_weekly_sales_distribution.png" width="700">
+
+<p align="center">
+<img src="images/02_temperature_distribution.png" width="700">
+
+Then, in the EDA activity, the stores with most overall sales have been classified:
+
+<p align="center">
+<img src="images/06_top_stores.png" width="700">
+
+Weekly sales generally fluctuate between 40M and 50M dollars, with significant peaks occurring during holiday periods:
+<p align="center">
+<img src="images/07_weekly_sales_timeline.png" width="700">
+
 ## Tools used
  - Pandas
  - NumPy
