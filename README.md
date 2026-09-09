@@ -79,9 +79,9 @@ A SARIMA model was developed to capture:
  - Seasonality over 52 weeks
  - Temporal dependencies
 
-The results are the following:
+The results are the following, that suggest using a model SARIMA (2,0,2)(1,0,0,52):
 <p align="center">
-<img src="images/09_autocorrelation.png" width="400">
+<img src="images/15_SARIMA.png" width="400">
 
 
 ## Tools used
