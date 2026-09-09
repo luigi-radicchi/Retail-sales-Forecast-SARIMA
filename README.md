@@ -63,6 +63,16 @@ Weekly sales generally fluctuate between 40M and 50M dollars, with significant p
 <p align="center">
 <img src="images/07_weekly_sales_timeline.png" width="1000">
 
+## Seasonality
+Seasonal decomposition revealed recurring annual patterns, especially during the end-of-year holiday season.
+<p align="center">
+<img src="images/08_sales_seasonality.png" width="700">
+
+The ACF plot showed a significant spike at lag 52, indicating an annual seasonal cycle and supporting the use of a seasonal time series model.
+<p align="center">
+<img src="images/09_autocorrelation.png" width="700">
+
+
 ## Tools used
  - Pandas
  - NumPy
