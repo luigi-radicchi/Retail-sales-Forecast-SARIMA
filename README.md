@@ -35,12 +35,15 @@ The origin dataset contains weekly sales for many stores along with several exte
 ## Data cleaning and validation
 The origin dataset has been loaded from Kaggle.
 <p align="center">
-<img src="images/12_table_head.png" width="600">
+<img src="images/12_table_head.png" width="700">
 
 These are the columns available after the astype check:
 <p align="center">
-<img src="images/13_info.png" width="600">
+<img src="images/13_info.png" width="400">
 
+No null values have been found:
+<p align="center">
+<img src="images/14_null.png" width="400">
 
 ## Tools used
  - Pandas
