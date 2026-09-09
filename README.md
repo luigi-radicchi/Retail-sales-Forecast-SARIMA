@@ -85,7 +85,7 @@ The results are the following, that suggest using a model SARIMA (2,0,2)(1,0,0,5
 
 This is the comparison between the real data and the forecasted data with SARIMA:
 <p align="center">
-<img src="images/10_SARIMA_forecast_vs_actual.png" width="800">
+<img src="images/10_SARIMA_forecast_vs_actual.png" width="1200">
 
 ## Extended models forecasting (SARIMAX)
 To evaluate the influence of external factors, two SARIMAX models were developed.
@@ -105,7 +105,7 @@ Model 2 regressors:
 
 ### Models performance
 <p align="center">
-<img src="images/16_model_talbe.png" width="800">
+<img src="images/16_model_table.png" width="800">
 
 The final SARIMAX model achieved the best performance, reducing forecasting error by approximately 18% compared to the baseline SARIMA model.
 
@@ -113,7 +113,7 @@ The final SARIMAX model achieved the best performance, reducing forecasting erro
 The final model was retrained on the full dataset and used to forecast the next eight weeks of sales.
 
 <p align="center">
-<img src="images/11_SARIMA_2_months_forecast.png" width="800">
+<img src="images/11_SARIMA_2_months_forecast.png" width="1200">
 
 The forecast suggests:
 
